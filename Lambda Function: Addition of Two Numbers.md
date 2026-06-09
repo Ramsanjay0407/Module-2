@@ -12,6 +12,7 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 NAME: RAMSANJAY C
 REG NO : 212224220077
+
 i=int(input())
 j=int(input())
 z=int(input())
