@@ -19,7 +19,7 @@ j=int(input())
 
 z=int(input())
 
-f = lambda a, b,c: a+b+c
+f = lambda a, b,c: a+b+c 
 
 print(f(i, j,z))
 
